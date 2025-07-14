@@ -2,6 +2,9 @@
 
 An interactive 3D solar system animation built with Three.js and GSAP, featuring realistic planetary motion, orbital mechanics, and educational information about each planet.
 
+# Github link:
+https://github.com/sam-eer12/solar-system
+
 ## Features
 
 - **3D Interactive Solar System** - Explore our solar system in full 3D with mouse/touch controls
